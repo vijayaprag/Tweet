@@ -1,0 +1,17 @@
+.fw-feed-title {
+    display: none;
+}
+#fw-feed-items .fw-feed-item-image-module {
+    margin: 0 0 0 5px;
+    padding: 0;
+    float: none !important;
+}
+.fw-feed-item-image,.fw-feed-item-image-module {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 175px;
+       /* height: 68px;
+    height: 365px;*/
+    overflow: hidden;
+}
